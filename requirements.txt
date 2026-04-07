@@ -1,6 +1,7 @@
 streamlit
+streamlit-webrtc
 opencv-python-headless
-mediapipe==0.10.11
+mediapipe
 gspread
 oauth2client
-numpy<2.0.0
+numpy
