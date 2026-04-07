@@ -1,6 +1,6 @@
-streamlit==1.32.0
-opencv-python-headless==4.9.0.80
-mediapipe==0.10.11
-gspread==6.0.0
-oauth2client==4.1.3
-numpy==1.26.4
+streamlit
+opencv-python-headless
+mediapipe
+gspread
+oauth2client
+numpy<2.0.0
