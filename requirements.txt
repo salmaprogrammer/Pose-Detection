@@ -1,5 +1,5 @@
-streamlit
 opencv-python-headless
 mediapipe
 gspread
 oauth2client
+streamlit
